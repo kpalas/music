@@ -7,4 +7,4 @@ public class notes {
 
 }
 
-// add how chords classes, intervals , scales , transpositions and other music theory concepts work.
+// add how chords classes, intervals , scales , transpositions and other music theory concepts work e.t.c.
