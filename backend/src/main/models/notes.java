@@ -6,3 +6,5 @@ public class notes {
     int octave = 0;
 
 }
+
+// add how chords, intervals , scales , transpositions and other music theory concepts work.
